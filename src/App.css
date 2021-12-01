@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.food-box {
+  width: 230px;
+  height: 300px;
+  margin: 10px;
+  background-color: black;
+}
