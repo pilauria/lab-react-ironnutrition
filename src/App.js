@@ -79,4 +79,3 @@ function App() {
 }
 
 export default App;
-//https://github.com/ross-u/lab-react-ironnutrition/blob/a3b0a1edcae7b1a918c59e71b0094cdb99bf895e/src/components/FoodNull.js
